@@ -542,6 +542,7 @@ This project collects the best AI tools from [AITop3](https://www.aitop3.com), o
 - [Dittin AI](https://dittin.ai/?affiliate=664c62d946cd38fa2da42925) - AI Chatbot community and NSFW AI Chat & Image Generation Platform.
 - [Nextpart AI](https://nextpart.ai/?invite_code=1012) - AI chat app for unfiltered NSFW character interaction.
 - [Dreamgf AI](https://dreamgf.ai/?a=MBU8PGrLAP1RhQ) - AI girlfriend platform for creating personalized virtual relationships with customizable AI partners.
+- [NSFWBots](https://www.nsfwbots.com) - Curated list of top performing chatbot characters from across all major platforms
 
 ### Ai Course
 
