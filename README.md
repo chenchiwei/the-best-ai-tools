@@ -502,6 +502,7 @@ This project collects the best AI tools from [AITop3](https://www.aitop3.com), o
 
 ### Nsfw
 
+- [Lovora](https://lovora.ai/) - AI girfriend and NSFW contents generator.
 - [SpicyChat AI](https://spicychat.ai?ref=n2mwzdu) - Chatbot platform with AI characters, allowing users to chat and create bots.
 - [CrushOn.AI](https://crushon.ai?utm_source=aitop3) - Platform for unfiltered, unbounded emotional and NSFW AI character interactions.
 - [Juicychat AI](https://www.juicychat.ai/?utm_source=tools&utm_medium=juicychat) - NSFW AI character chat platform for unfiltered and intimate conversations.
