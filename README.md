@@ -71,6 +71,7 @@ This project collects the best AI tools from [AITop3](https://www.aitop3.com), o
 - [Planable](http://planable.io?utm_source=aitop3) - Social media collaboration platform for planning, approving, and scheduling content.
 
 ### Ai Chatbot
+- [AI Group Call](https://aigroupcall.app) - Facilitate a live AI panel: agents answer one at a time, build on each other, and leave notes and action items after the call.
 
 - [ChatGPT](https://chatgpt.com?utm_source=aitop3) - A free-to-use AI system for conversations, insights, and task automation.
 - [Gemini & Gemini Advanced](https://gemini.google.com?utm_source=aitop3) - Google's personal, proactive, and powerful AI assistant.
