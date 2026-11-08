@@ -137,6 +137,8 @@ This project collects the best AI tools from [AITop3](https://www.aitop3.com), o
 - [Depositphotos AI image generator](https://depositphotos.com/ai-image-generator.html) - AI image generator converting text to unique, licensed pictures.
 - [EaseUS Software](https://www.easeus.com?utm_source=aitop3) - EaseUS provides data recovery, backup, partition management, and multimedia software.
 - [Runwayml](https://runwayml.com?utm_source=aitop3) - Runway is an AI research company providing tools for media generation and creative workflows.
+- [Cyanvid](https://cyanvid.com/?utm_source=chenchiwei-the-best-ai-tools&utm_medium=directory&utm_campaign=backlinks) - AI video generator from text or images; credit quotes before generate.
+- [Barz Studio](https://barzvideo.com/?utm_source=chenchiwei-the-best-ai-tools&utm_medium=directory&utm_campaign=backlinks) - Free browser rap lyric video maker; beat-reactive captions, export 9:16 WebM.
 - [Openart](https://openart.ai/?via=aitop3) - AI image generator with diverse models, styles, and tools for creative AI art.
 - [Unlucid AI](https://unlucid.ai?utm_source=aitop3) - Free uncensored AI tools for creating, editing, and animating videos and images.
 - [venice.ai](https://venice.ai?utm_source=aitop3) - Private, uncensored AI for generating text, images, code, and characters.
